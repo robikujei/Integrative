@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "551857808984",
+    "project_id": "robikounter",
+    "storage_bucket": "robikounter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551857808984:android:363350bfe65b928f520c2d",
+        "android_client_info": {
+          "package_name": "Robin.Do"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551857808984-nnigal7tq6083gtu0loksm4mv7vunlot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKycQrn1asD9svj8TbSPb5tTH1G5FpQn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551857808984-nnigal7tq6083gtu0loksm4mv7vunlot.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "551857808984-f8ipmlaba0s005vhh4ofar1su15ufmfp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.robikdo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551857808984:android:4108dada5b785cb5520c2d",
+        "android_client_info": {
+          "package_name": "com.mycompany.robikdo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551857808984-nnigal7tq6083gtu0loksm4mv7vunlot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKycQrn1asD9svj8TbSPb5tTH1G5FpQn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551857808984-nnigal7tq6083gtu0loksm4mv7vunlot.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "551857808984-f8ipmlaba0s005vhh4ofar1su15ufmfp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.robikdo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
